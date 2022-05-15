@@ -1,0 +1,4 @@
+Valor actualizado del Bitcoin 
+ EUR: 28,682.6651
+ USD: 29,864.0884
+ GBP: 24,349.0275
